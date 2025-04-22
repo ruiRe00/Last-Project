@@ -12,7 +12,7 @@ session_start();
     <link href="assets/css/style.css" rel="stylesheet">
     <style>
         :root {
-            --primary-color: #1a73e8;
+            --primary-color: #3A59D1;
             --secondary-color: #28a745;
             --accent-color: #6f42c1;
             --danger-color: #dc3545;
